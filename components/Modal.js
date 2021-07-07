@@ -96,6 +96,7 @@ const StyledModalTitle = styled.div`
     grid-column:1/3;
     font-size:18px;
     overflow: hidden;
+	height: 20px;
 `;
 const StyledModalName = styled.div`
     grid-row:2;
